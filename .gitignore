@@ -1,0 +1,13 @@
+# Java compiled class files
+*.class
+
+# JAR/WAR/EAR packages (if any)
+*.jar
+*.war
+*.ear
+
+# VS Code settings
+.vscode/
+
+# macOS Finder files
+.DS_Store
