@@ -5,3 +5,4 @@
   
   ## Progress Tracker
   - Day 1: helloworld , If else/if else if , switch
+  - Day 2 : Loops : For, While, Do-while
